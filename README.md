@@ -1,4 +1,4 @@
 ## Mobile Computing Experiments
 
-### EXP 1 - Bluetooth File Transfer APP
+- ### EXP 1 - Bluetooth File Transfer APP
 
