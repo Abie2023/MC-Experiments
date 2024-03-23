@@ -1,4 +1,14 @@
-## Mobile Computing Experiments
+### Mobile Computing Lab
 
-- ### EXP 1 - Bluetooth File Transfer APP
+## List of experiments:
 
+- ### EXP 1 - BLUETOOTH FILE TRANSFER APP
+- ### EXP 1 - DRAWING APP
+- ### EXP 1 - GPS LOCATION TRACKER APP
+- ### EXP 1 - EMI CALCULATOR APP
+- ### EXP 1 - FREQUENCY REUSE 
+- ### EXP 1 - WRITE TO DATABASE APP
+- ### EXP 1 - SIMPLE GUI APP
+- ### EXP 1 - HIDDEN AND EXPOSED TERMINAL
+- ### EXP 1 - DRAW GRAPHICAL PRIMITIVES APP
+- ### EXP 1 - NOTIFICATION SIMULATION APP
